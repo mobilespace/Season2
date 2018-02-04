@@ -57,7 +57,7 @@ The following learning patterns will be re-enforned throughout the course:
 - Working in teams - each week, you will be paired up with another person and it's your responsibility to work on assignments independenly yet work together to resolve any problems that come up or ask questions on Slack.
 
 
-## Roadmap
+## [Roadmap](https://i.imgur.com/NREIdQT.png)
 
 ### Meetup #1
 - [ ] Course Introduction
@@ -67,19 +67,19 @@ The following learning patterns will be re-enforned throughout the course:
 <br />
 
 ### Meetup #2
-- [ ] Learning State, Props and functions (React) and CSS
+- [ ] Learning React state, props and functions; Intro to CSS styling (flexbox)
 #### ASSIGNMENT #2
 
 <br />
 
 ### Meetup #3
-- [ ] Intro to React Native, Expo and CRNA and RN styling
+- [ ] Intro to React Native, Expo and CRNA; Intro to RN styling (flexbox)
 #### ASSIGNMENT #3
 
 <br />
 
 ### Meetup #4
-- [ ] Learning React Native API's and advanced styling
+- [ ] Learning React Native API's and advanced styling; Intro to NPM libraries
 #### ASSIGNMENT #4
 
 <br />
@@ -91,23 +91,22 @@ The following learning patterns will be re-enforned throughout the course:
 <br />
 
 ### Meetup #6
-- [ ] Create Login & Logout screens with navigation auth, intro to RNE & other npm modules
+- [ ] Learning React Navigation; Create Login & Logout screens with navigation auth
+- [ ] **BONUS** Intro to RN Animations
 #### ASSIGNMENT #6
 
 <br />
 
 ### Meetup #7
-- [ ] Intro to RN Animations
+- [ ] Intro to Express, Node.js; Building a backend for mobile apps
 #### ASSIGNMENT #7
 
 <br />
 
-### Meetup #8
-- [ ] Intro to Express, Node.js; Building backend for mobile apps
-#### ASSIGNMENT #8
-
-<br />
-
-### Meetup #9-12
+### Meetup #8-12
 - [ ] Built a full stack mobile app with RN + Express
 #### GROUP PROJECT
+
+## Feedback
+
+If you see any typos or have suggestions on how this roadmap can be improved, kindly open a new issue and let us know. Or if you like what you see and would like to find out more details about it, email Monte Thakkar @ `helloomonte@gmail.com`
