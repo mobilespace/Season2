@@ -65,6 +65,7 @@ The following learning patterns will be re-enforned throughout the course:
 
 #### Resources
 - [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc) **[YOUTUBE]**
+- [The JavaScript language](https://javascript.info/js) **[WEB TUTORIAL]**
 - [JSX intro | React tutorial series](https://www.youtube.com/watch?v=yc8fg7gWbBA) **[YOUTUBE]**
 
 #### [ASSIGNMENT #1](https://github.com/mobilespace/community-members#todo)
