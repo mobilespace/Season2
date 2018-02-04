@@ -62,6 +62,11 @@ The following learning patterns will be re-enforned throughout the course:
 ### Meetup #1
 - [ ] Course Introduction
 - [ ] Intro to Github, Javascript (JSX) and React
+
+#### Resources
+- [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc) **[YOUTUBE]**
+- [JSX intro | React tutorial series](https://www.youtube.com/watch?v=yc8fg7gWbBA) **[YOUTUBE]**
+
 #### [ASSIGNMENT #1](https://github.com/mobilespace/community-members#todo)
 
 <br />
