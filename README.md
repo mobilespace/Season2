@@ -56,4 +56,58 @@ The following learning patterns will be re-enforned throughout the course:
 - Collaboration is key. Be respectful of your peers and the community you are part of and be willing to help others and foster an environment of learning.
 - Working in teams - each week, you will be paired up with another person and it's your responsibility to work on assignments independenly yet work together to resolve any problems that come up or ask questions on Slack.
 
-## Meetup #1 
+
+## Roadmap
+
+### Meetup #1
+- [ ] Course Introduction
+- [ ] Intro to Github, Javascript (JSX) and React
+#### [ASSIGNMENT #1](https://github.com/mobilespace/community-members#todo)
+
+<br />
+
+### Meetup #2
+- [ ] Learning State, Props and functions (React) and CSS
+#### ASSIGNMENT #2
+
+<br />
+
+### Meetup #3
+- [ ] Intro to React Native, Expo and CRNA and RN styling
+#### ASSIGNMENT #3
+
+<br />
+
+### Meetup #4
+- [ ] Learning React Native API's and advanced styling
+#### ASSIGNMENT #4
+
+<br />
+
+### Meetup #5
+- [ ] Intro to React Navigation
+#### ASSIGNMENT #5
+
+<br />
+
+### Meetup #6
+- [ ] Create Login & Logout screens with navigation auth, intro to RNE & other npm modules
+#### ASSIGNMENT #6
+
+<br />
+
+### Meetup #7
+- [ ] Intro to RN Animations
+#### ASSIGNMENT #7
+
+<br />
+
+### Meetup #8
+- [ ] Intro to Express, Node.js; Building backend for mobile apps
+#### ASSIGNMENT #8
+
+<br />
+
+### Meetup #9-12
+- [ ] Built a full stack mobile app with RN + Express
+#### GROUP PROJECT
