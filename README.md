@@ -1,6 +1,4 @@
-# MobileSpace - Season 2
-
-This readme serves as the **roadmap for MobileSpace Season 2**. In it are outlined the **course objectives**, **weekly meetup assignments** and most importantly a **beginner friendly cirriculum to learn professional React Native development**.
+# MobileSpace
 
 ### Background
 
@@ -12,7 +10,7 @@ To hear my journey and learn more about MobileSpace, read my blog post [here](ht
 
 Since then, I have have been doing a lot of cross-platform mobile development with React Native and have mostly good things to say about it. Most notably I maintain the popular [React Native Elements](https://github.com/react-native-training/react-native-elements) repo which is [the most starred UI Toolkit](https://native.directory/stars) for React Native. Additionally you can see some of my other React Native work [here](https://github.com/Monte9?utf8=%E2%9C%93&tab=repositories&q=react+native&type=&language=javascript).
 
-Recently, a few students @ SF State expressed an interest in learning React Native, and that made me decide to do MobileSpace Season 2. And this time I would be teaching React Native instead of iOS development.
+Recently, a few students at SF State expressed an interest in learning React Native, and that made me decide to do MobileSpace Season 2. And this time I would be teaching React Native instead of iOS development.
 
 
 ### Why React Native?
@@ -27,16 +25,35 @@ Here's my tldr;
 - a more active developer ecosystem (the React ecosystem in general)
 - wide adoption by major tech companies (Tesla, FB, IG, Airbnb etc)
 
-Also there are lot of really good medium posts talking about exactly this: `native dev vs react native.` Here are some good ones that I'd def recommend if you need some convinving that learning React Native is a good skill set to have in your toolbelt.
+Also there are lot of really good medium posts talking about exactly this: `native dev vs react native.` Here are some good posts that I'd def recommend reading that helps to puts this in perspective.
 
 - [React Native vs Real Native Apps](https://codeburst.io/react-native-vs-real-native-apps-ad890986f1f)
 - [React Native: Bringing modern web techniques to mobile](https://code.facebook.com/posts/1014532261909640/react-native-bringing-modern-web-techniques-to-mobile/)
 - [Comparing the Performance between Native iOS (Swift) and React-Native](https://medium.com/the-react-native-log/comparing-the-performance-between-native-ios-swift-and-react-native-7b5490d363e2)
+
+# Season 2 - Looking ahead
+
+This readme serves as the **roadmap for MobileSpace Season 2**. In it are outlined the **course objectives**, **weekly meetup assignments** and most importantly a **beginner friendly curriculum to learn professional React Native development**.
+
+## Housekeeping
+
+- 1 meetup/week for 3 months - **Feb 3rd => Apr 29th 2018**
+- Meetup day & time - **Sunday 12-2pm @ SF State Library**
+- Any community member that **misses two consecutive meetups** will be asked to **leave the community** due to lack of commitment.
 
 ## Course Objective
 
 To make sure that all community members learn **professional mobile development** as well as **general software engineering skills** in turn preparing them to land an **summer internship** or a **full-time software engineering** position on their own.
 
 Also it's not just about the technical skills that are taught during the course, but it's also about developing the right midset and ability to think through a technical problem, product spec as well as working in a team setting.
+
+### Learning objectives
+
+The following learning patterns will be re-enforned throughout the course:
+
+- Even though this is a beginner friendly course, we will not delve into the basic theoretical concepts of Javascript, React etc. Instead we will take a very practical approach to learning and jump head first into HelloWorld projects and then start filling in the knowledge gaps as they come up.
+- We will try to build production ready apps & uses cases that can be showcased on your portfolio. (This is to say that we will not just build dummy apps for the sake of it)
+- Collaboration is key. Be respectful of your peers and the community you are part of and be willing to help others and foster an environment of learning.
+- Working in teams - each week, you will be paired up with another person and it's your responsibility to work on assignments independenly yet work together to resolve any problems that come up or ask questions on Slack.
 
 ## Meetup #1 
