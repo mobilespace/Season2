@@ -77,7 +77,15 @@ The following learning patterns will be re-enforned throughout the course:
 
 ### Meetup #2
 - [ ] Learning React state, props and functions; Intro to CSS styling (flexbox)
-#### ASSIGNMENT #2
+
+#### Attendance
+-
+
+#### Resources
+- [React controlled components](https://reactjs.org/docs/forms.html#controlled-components) **[DOCS]**
+- [How Flexbox works — explained with big, colorful, animated gifs](https://medium.freecodecamp.org/an-animated-guide-to-flexbox-d280cf6afc35)
+
+#### [ASSIGNMENT #2](https://github.com/mobilespace/community-members#assignment-2)
 
 <br />
 
