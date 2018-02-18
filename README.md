@@ -87,6 +87,7 @@ The following learning patterns will be re-enforned throughout the course:
 - [How Flexbox works — explained with big, colorful, animated gifs](https://medium.freecodecamp.org/an-animated-guide-to-flexbox-d280cf6afc35) **[BLOG POST]**
 - [Learn React - Free courses on Egghead.io](https://egghead.io/browse/frameworks/react) **[VIDEOS]**
 - [Flexbox CSS In 20 Minutes](https://www.youtube.com/watch?v=JJSoEo8JSnc) **[YOUTUBE]**
+- [Flexbox Froggy - A game for learning CSS flexbox](http://flexboxfroggy.com/)
 - [Flexbox Tutorial (CSS): Real Layout Examples](https://www.youtube.com/watch?v=k32voqQhODc) **[YOUTUBE]**
 - [Session Storage and Local Storage in React](https://www.robinwieruch.de/local-storage-react/) **[BLOG POST]**
 
