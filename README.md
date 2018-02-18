@@ -71,26 +71,36 @@ The following learning patterns will be re-enforned throughout the course:
 - [The JavaScript language](https://javascript.info/js) **[WEB TUTORIAL]**
 - [JSX intro | React tutorial series](https://www.youtube.com/watch?v=yc8fg7gWbBA) **[YOUTUBE]**
 
-#### [ASSIGNMENT #1](https://github.com/mobilespace/community-members#todo) - [DEMO](https://mobilespace-members.netlify.com/)
+#### [ASSIGNMENT #1](https://github.com/mobilespace/community-members#assignment-1)
 
 <br />
 
 ### Meetup #2
-- [ ] Learning React state, props and functions; Intro to CSS styling (flexbox)
+- [x] Learning React state, props and functions 
+- [x] Intro to CSS styling (flexbox)
 
 #### Attendance
--
+:white_check_mark: 14 students
 
 #### Resources
 - [React controlled components](https://reactjs.org/docs/forms.html#controlled-components) **[DOCS]**
-- [How Flexbox works — explained with big, colorful, animated gifs](https://medium.freecodecamp.org/an-animated-guide-to-flexbox-d280cf6afc35)
+- [How Flexbox works — explained with big, colorful, animated gifs](https://medium.freecodecamp.org/an-animated-guide-to-flexbox-d280cf6afc35) **[BLOG POST]**
+- [Learn React - Free courses on Egghead.io](https://egghead.io/browse/frameworks/react) **[VIDEOS]**
+- [Flexbox CSS In 20 Minutes](https://www.youtube.com/watch?v=JJSoEo8JSnc) **[YOUTUBE]**
+- [Flexbox Tutorial (CSS): Real Layout Examples](https://www.youtube.com/watch?v=k32voqQhODc) **[YOUTUBE]**
+- [Session Storage and Local Storage in React](https://www.robinwieruch.de/local-storage-react/) **[BLOG POST]**
 
 #### [ASSIGNMENT #2](https://github.com/mobilespace/community-members#assignment-2)
 
 <br />
 
 ### Meetup #3
-- [ ] Intro to React Native, Expo and CRNA; Intro to RN styling (flexbox)
+- [ ] Intro to React Native, Expo and CRNA
+- [ ] Intro to RN styling (flexbox)
+
+#### Attendance
+tbd
+
 #### ASSIGNMENT #3
 
 <br />
