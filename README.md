@@ -96,13 +96,20 @@ The following learning patterns will be re-enforned throughout the course:
 <br />
 
 ### Meetup #3
-- [ ] Intro to React Native, Expo and CRNA
-- [ ] Intro to RN styling (flexbox)
+- [x] Intro to React Native, Expo and CRNA
+- [x] Intro to RN styling (flexbox)
 
 #### Attendance
-tbd
+:white_check_mark: 13 students
 
-#### ASSIGNMENT #3
+#### Resources
+- [React Native Express](http://www.reactnativeexpress.com/) **[WEB TUTORIAL]**
+- [React Native - Learn the Basics](https://facebook.github.io/react-native/docs/tutorial.html) **[OFFICIAL DOCS]**
+- [The Complete React Native and Redux Course - Udemy Paid course](https://www.udemy.com/the-complete-react-native-and-redux-course/) **[ONLINE COURSE]**
+- [React Native Styling Cheat Sheet](https://github.com/vhpoet/react-native-styling-cheat-sheet) **[GITHUB REPO]**
+- [React Native - Components and APIs](https://facebook.github.io/react-native/docs/components-and-apis.html) **[OFFICIAL DOCS]**
+
+#### [ASSIGNMENT #3](https://github.com/mobilespace/exploring-react-native#assignment-1)
 
 <br />
 
