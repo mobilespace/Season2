@@ -134,21 +134,23 @@ The following learning patterns will be re-enforned throughout the course:
 
 ### Meetup #7
 - [ ] Recap of RN - Q&A session
-- [ ] **BONUS** Intro to RN Animations
-- [ ] **BONUS** Testing a RN app with Jest & Detox
-- [ ] **BONUS** Mobile design principles - iOS vs Android vs React Native
+- [ ] :star: **BONUS** Intro to RN Animations
+- [ ] :star: **BONUS** Testing a RN app with Jest & Detox
+- [ ] :star: **BONUS** Mobile design principles - iOS vs Android vs React Native
 
 <br />
 
 ### Meetup #8-12
 - [ ] Built a full stack mobile app with RN + Firebase (4 weeks)
 
-#### GROUP PROJECT :rocket:
+#### :star: GROUP PROJECT :rocket:
 
-#### DEMO DAY :tada:
+#### :star: DEMO DAY :tada:
 
 <br />
 
 ## Feedback
 
-If you see any typos or have suggestions on how this roadmap can be improved, kindly open a new issue and let us know. Or if you like what you see and would like to find out more details about it, email Monte Thakkar @ `helloomonte@gmail.com`
+In case you have suggestions on how this roadmap can be improved, kindly open a new issue and let us know. 
+
+And if you like what you see or have any questions about this repo or MobileSpace in general please reach out to [**@monte9**](https://github.com/monte9) on Github.
