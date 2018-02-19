@@ -116,33 +116,38 @@ The following learning patterns will be re-enforned throughout the course:
 <br />
 
 ### Meetup #4
-- [ ] Learning React Native API's and advanced styling; Intro to NPM libraries
-#### ASSIGNMENT #4
+- [ ] Learning React Native API's
+- [ ] Advanced RN Styling
+- [ ] Intro to NPM libraries
 
 <br />
 
 ### Meetup #5
 - [ ] Intro to React Navigation
-#### ASSIGNMENT #5
 
 <br />
 
 ### Meetup #6
-- [ ] Learning React Navigation; Create Login & Logout screens with navigation auth
-- [ ] **BONUS** Intro to RN Animations
-#### ASSIGNMENT #6
+- [ ] Advanced React Native with API calls, AsyncStorage, Redux & Authentication
 
 <br />
 
 ### Meetup #7
-- [ ] Intro to Express, Node.js; Building a backend for mobile apps
-#### ASSIGNMENT #7
+- [ ] Recap of RN - Q&A session
+- [ ] **BONUS** Intro to RN Animations
+- [ ] **BONUS** Testing a RN app with Jest & Detox
+- [ ] **BONUS** Mobile design principles - iOS vs Android vs React Native
 
 <br />
 
 ### Meetup #8-12
-- [ ] Built a full stack mobile app with RN + Express
-#### GROUP PROJECT
+- [ ] Built a full stack mobile app with RN + Firebase (4 weeks)
+
+#### GROUP PROJECT :rocket:
+
+#### DEMO DAY :tada:
+
+<br />
 
 ## Feedback
 
