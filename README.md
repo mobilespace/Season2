@@ -69,6 +69,7 @@ The following learning patterns will be re-enforned throughout the course:
 #### Resources
 - [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc) **[YOUTUBE]**
 - [The JavaScript language](https://javascript.info/js) **[WEB TUTORIAL]**
+- [React Express](http://www.react.express/) :star: :star: **[WEB TUTORIAL]**
 - [JSX intro | React tutorial series](https://www.youtube.com/watch?v=yc8fg7gWbBA) **[YOUTUBE]**
 
 #### [ASSIGNMENT #1](https://github.com/mobilespace/community-members#assignment-1)
@@ -83,11 +84,11 @@ The following learning patterns will be re-enforned throughout the course:
 :white_check_mark: 14 students
 
 #### Resources
-- [React controlled components](https://reactjs.org/docs/forms.html#controlled-components) **[DOCS]**
+- [Learn React - Free courses on Egghead.io](https://egghead.io/browse/frameworks/react) :star: :star: **[VIDEOS]**
+- [React controlled components](https://reactjs.org/docs/forms.html#controlled-components) **[OFFICIAL DOCS]**
 - [How Flexbox works — explained with big, colorful, animated gifs](https://medium.freecodecamp.org/an-animated-guide-to-flexbox-d280cf6afc35) **[BLOG POST]**
-- [Learn React - Free courses on Egghead.io](https://egghead.io/browse/frameworks/react) **[VIDEOS]**
 - [Flexbox CSS In 20 Minutes](https://www.youtube.com/watch?v=JJSoEo8JSnc) **[YOUTUBE]**
-- [Flexbox Froggy - A game for learning CSS flexbox](http://flexboxfroggy.com/)
+- [Flexbox Froggy - A game for learning CSS flexbox](http://flexboxfroggy.com/) :star: **[GAME TUTORIAL]**
 - [Flexbox Tutorial (CSS): Real Layout Examples](https://www.youtube.com/watch?v=k32voqQhODc) **[YOUTUBE]**
 - [Session Storage and Local Storage in React](https://www.robinwieruch.de/local-storage-react/) **[BLOG POST]**
 
@@ -103,11 +104,12 @@ The following learning patterns will be re-enforned throughout the course:
 :white_check_mark: 13 students
 
 #### Resources
-- [React Native Express](http://www.reactnativeexpress.com/) **[WEB TUTORIAL]**
-- [React Native - Learn the Basics](https://facebook.github.io/react-native/docs/tutorial.html) **[OFFICIAL DOCS]**
-- [The Complete React Native and Redux Course - Udemy Paid course](https://www.udemy.com/the-complete-react-native-and-redux-course/) **[ONLINE COURSE]**
+- [React Native Express](http://www.reactnativeexpress.com/) :star: :star: **[WEB TUTORIAL]**
+- [React Native - Learn the Basics](https://facebook.github.io/react-native/docs/tutorial.html) :star: **[OFFICIAL DOCS]**
+- [React Native - Components and APIs](https://facebook.github.io/react-native/docs/components-and-apis.html) :star: **[OFFICIAL DOCS]**
 - [React Native Styling Cheat Sheet](https://github.com/vhpoet/react-native-styling-cheat-sheet) **[GITHUB REPO]**
-- [React Native - Components and APIs](https://facebook.github.io/react-native/docs/components-and-apis.html) **[OFFICIAL DOCS]**
+- [The Complete React Native and Redux Course - Udemy Paid course](https://www.udemy.com/the-complete-react-native-and-redux-course/) **[ONLINE COURSE]**
+
 
 #### [ASSIGNMENT #3](https://github.com/mobilespace/exploring-react-native#assignment-1)
 
