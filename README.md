@@ -116,14 +116,25 @@ The following learning patterns will be re-enforned throughout the course:
 <br />
 
 ### Meetup #4
-- [ ] Learning React Native API's
-- [ ] Advanced RN Styling
-- [ ] Intro to NPM libraries
+- [x] Learning React Native API's
+- [x] Advanced RN Styling
+- [x] Intro to NPM libraries
+
+#### Attendance
+:white_check_mark: 11 students
+
+#### [ASSIGNMENT #4](https://github.com/mobilespace/daug-mobile#assignment-1)
 
 <br />
 
 ### Meetup #5
-- [ ] Intro to React Navigation
+- [x] Intro to React Navigation
+
+#### Attendance
+:white_check_mark: tbd
+
+#### [ASSIGNMENT #5](https://github.com/mobilespace/daug-mobile#assignment-2)
+
 
 <br />
 
