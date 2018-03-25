@@ -161,6 +161,7 @@ Working on **Daug Social Network mobile app** - Backend (part 3)
 
 #### [ASSIGNMENT #6](https://github.com/mobilespace/daug-mobile#assignment-3)
 
+<br />
 
 ### Meetup #7
 - [ ] Advanced API calls
@@ -183,6 +184,8 @@ Working on **Daug Social Network mobile app** - Wrap up (part 4)
 - [ ] Built a fully functioning mobile app with React Native + an API (3 weeks)
 
 #### :star: GROUP PROJECT :rocket:
+
+<br />
 
 ### Meetup #12
 - [ ] Demo the app
