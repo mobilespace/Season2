@@ -110,7 +110,6 @@ The following learning patterns will be re-enforned throughout the course:
 - [React Native Styling Cheat Sheet](https://github.com/vhpoet/react-native-styling-cheat-sheet) **[GITHUB REPO]**
 - [The Complete React Native and Redux Course - Udemy Paid course](https://www.udemy.com/the-complete-react-native-and-redux-course/) **[ONLINE COURSE]**
 
-
 #### [ASSIGNMENT #3](https://github.com/mobilespace/exploring-react-native#assignment-1)
 
 <br />
@@ -120,8 +119,13 @@ The following learning patterns will be re-enforned throughout the course:
 - [x] Advanced RN Styling
 - [x] Intro to NPM libraries
 
+Working on **Daug Social Network mobile app** - Skeleton (part 1)
+
 #### Attendance
 :white_check_mark: 11 students
+
+#### Resources
+- [Mobile Guides - React Native](https://github.com/mobilespace/MobileGuides#guides) :star: **[README GUIDES]**
 
 #### [ASSIGNMENT #4](https://github.com/mobilespace/daug-mobile#assignment-1)
 
@@ -129,34 +133,62 @@ The following learning patterns will be re-enforned throughout the course:
 
 ### Meetup #5
 - [x] Intro to React Navigation
+- [x] Advanced RN Styling
+
+Working on **Daug Social Network mobile app** - Navigation (part 2)
 
 #### Attendance
-:white_check_mark: tbd
+:white_check_mark: 11 students
+
+#### Resources
+- [Mobile Guides - React Native](https://github.com/mobilespace/MobileGuides#guides) :star: **[README GUIDES]**
 
 #### [ASSIGNMENT #5](https://github.com/mobilespace/daug-mobile#assignment-2)
-
 
 <br />
 
 ### Meetup #6
-- [ ] Advanced React Native with API calls, AsyncStorage, Redux & Authentication
+- [x] Making API calls with React Native
+- [x] Authentication flow & AsyncStorage
 
-<br />
+Working on **Daug Social Network mobile app** - Backend (part 3)
+
+#### Attendance
+:white_check_mark: 11 students
+
+#### Resources
+- [Mobile Guides - React Native](https://github.com/mobilespace/MobileGuides#guides) :star: **[README GUIDES]**
+
+#### [ASSIGNMENT #6](https://github.com/mobilespace/daug-mobile#assignment-3)
+
 
 ### Meetup #7
-- [ ] Recap of RN - Q&A session
-- [ ] :star: **BONUS** Intro to RN Animations
-- [ ] :star: **BONUS** Testing a RN app with Jest & Detox
-- [ ] :star: **BONUS** Mobile design principles - iOS vs Android vs React Native
+- [ ] Advanced API calls
+- [ ] React Redux
+- [ ] React Native wrap-up
+
+Working on **Daug Social Network mobile app** - Wrap up (part 4)
+
+#### Attendance
+:white_check_mark: TBD students
+
+#### Resources
+- [Mobile Guides - React Native](https://github.com/mobilespace/MobileGuides#guides) :star: **[README GUIDES]**
+
+#### [ASSIGNMENT #7](https://github.com/mobilespace/daug-mobile#wrap-up)
 
 <br />
 
-### Meetup #8-12
-- [ ] Built a full stack mobile app with RN + Firebase (4 weeks)
+### Meetup #8-11
+- [ ] Built a fully functioning mobile app with React Native + an API (3 weeks)
 
 #### :star: GROUP PROJECT :rocket:
 
-#### :star: DEMO DAY :tada:
+### Meetup #12
+- [ ] Demo the app
+- [ ] Partyy :tada:
+
+#### :star: DEMO DAY :fire:
 
 <br />
 
