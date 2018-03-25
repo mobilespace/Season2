@@ -164,14 +164,14 @@ Working on **Daug Social Network mobile app** - Backend (part 3)
 <br />
 
 ### Meetup #7
-- [ ] Advanced API calls
+- [x] Advanced API calls
 - [ ] React Redux
-- [ ] React Native wrap-up
+- [x] React Native wrap-up
 
 Working on **Daug Social Network mobile app** - Wrap up (part 4)
 
 #### Attendance
-:white_check_mark: TBD students
+:white_check_mark: 11 students
 
 #### Resources
 - [Mobile Guides - React Native](https://github.com/mobilespace/MobileGuides#guides) :star: **[README GUIDES]**
