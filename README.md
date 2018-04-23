@@ -31,7 +31,7 @@ Also there are lot of really good medium posts talking about exactly this: `nati
 - [React Native: Bringing modern web techniques to mobile](https://code.facebook.com/posts/1014532261909640/react-native-bringing-modern-web-techniques-to-mobile/)
 - [Comparing the Performance between Native iOS (Swift) and React-Native](https://medium.com/the-react-native-log/comparing-the-performance-between-native-ios-swift-and-react-native-7b5490d363e2)
 
-# Season 2 - Looking ahead
+# Season 2 - React Native Curriculum
 
 This readme serves as the **roadmap for MobileSpace Season 2**. In it are outlined the **course objectives**, **weekly meetup assignments** and most importantly a **beginner friendly curriculum to learn professional React Native development**.
 
