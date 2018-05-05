@@ -165,8 +165,8 @@ Working on **Daug Social Network mobile app** - Backend (part 3)
 
 ### Meetup #7
 - [x] Advanced API calls
-- [ ] React Redux
 - [x] React Native wrap-up
+- [ ] React Redux
 
 Working on **Daug Social Network mobile app** - Wrap up (part 4)
 
@@ -181,17 +181,20 @@ Working on **Daug Social Network mobile app** - Wrap up (part 4)
 <br />
 
 ### Meetup #8-11
-- [ ] Built a fully functioning mobile app with React Native + an API (3 weeks)
+- [x] Built a fully functioning mobile app with React Native + an API (3 weeks)
 
 #### :star: GROUP PROJECT :rocket:
+:white_check_mark: 3 Teams
 
 <br />
 
 ### Meetup #12
-- [ ] Demo the app
-- [ ] Partyy :tada:
+- [x] Demo the app
+- [x] Partyy :tada:
 
 #### :star: DEMO DAY :fire:
+
+[Watch the Season 2 Demo Day on Youtube](https://www.youtube.com/watch?v=MSteZ2InMr8)
 
 <br />
 
