@@ -1,6 +1,21 @@
-# MobileSpace
+## [MobileSpace Introduction](#mobilespace-introduction)
 
-### Background
+1. [Background](#background)
+2. [Why React Native?](#why-react-native)
+
+## [Season 2 - Curriculum](#season-2-curriculum)
+
+1. [Housekeeping](#housekeeping)
+2. [Course Objective](#course-objective)
+3. [Learning Objectives](#learning-objectives)
+4. [Roadmap](#roadmap)
+5. [Feedback](#feedback)
+
+--- 
+
+# MobileSpace Introduction
+
+## Background
 
 [MobileSpace](http://mobilespace.xyz/) was started in Fall 2016 due to the lack of an iOS course in the CS cirriculum @ SF State. Hence the primary objective of MobileSpace was to help fill this knowledge gap and enable students to learn and discover their passion for building mobile apps.
 
@@ -31,7 +46,7 @@ Also there are lot of really good medium posts talking about exactly this: `nati
 - [React Native: Bringing modern web techniques to mobile](https://code.facebook.com/posts/1014532261909640/react-native-bringing-modern-web-techniques-to-mobile/)
 - [Comparing the Performance between Native iOS (Swift) and React-Native](https://medium.com/the-react-native-log/comparing-the-performance-between-native-ios-swift-and-react-native-7b5490d363e2)
 
-# Season 2 - React Native Curriculum
+# Season 2 - Curriculum
 
 This readme serves as the **roadmap for MobileSpace Season 2**. In it are outlined the **course objectives**, **weekly meetup assignments** and most importantly a **beginner friendly curriculum to learn professional React Native development**.
 
@@ -47,7 +62,7 @@ To make sure that all community members learn **professional mobile development*
 
 Also it's not just about the technical skills that are taught during the course, but it's also about developing the right midset and ability to think through a technical problem, product spec as well as working in a team setting.
 
-### Learning objectives
+## Learning Objectives
 
 The following learning patterns will be re-enforned throughout the course:
 
