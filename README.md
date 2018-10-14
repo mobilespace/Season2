@@ -3,7 +3,7 @@
 1. [Background](#background)
 2. [Why React Native?](#why-react-native)
 
-## [Season 2 - Curriculum](#season-2-curriculum)
+## [Season 2 - Curriculum](#season-2---curriculum-1)
 
 1. [Housekeeping](#housekeeping)
 2. [Course Objective](#course-objective)
@@ -209,7 +209,7 @@ Working on **Daug Social Network mobile app** - Wrap up (part 4)
 
 #### :star: DEMO DAY :fire:
 
-[Watch the Season 2 Demo Day on Youtube](https://www.youtube.com/watch?v=MSteZ2InMr8)
+:white_check_mark: **Watch Season 2 Demo Day** - [Youtube](https://www.youtube.com/watch?v=MSteZ2InMr8)
 
 <br />
 
